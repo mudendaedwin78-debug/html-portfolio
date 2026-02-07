@@ -91,4 +91,4 @@ The website is contained in a single `index.html` file for simplicity.
 
 **Student Name:** Edwin Mudenda  
 **Student ID:** 2503387691
-**GitHub Repository:**https://github.com/mudendaedwin78-debug/html-portfolio
+**GitHub Repository:https://github.com/mudendaedwin78-debug/html-portfolio
